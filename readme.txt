@@ -1,4 +1,4 @@
-=== Big-Login ===
+=== wp-big-login  ===
 Contributors: EXED internet
 Version: 1.0
 Tags: login, authentication, Big-Login, Big
