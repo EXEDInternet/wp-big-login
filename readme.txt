@@ -1,10 +1,10 @@
 === Big-Login ===
 Contributors: exed internet 
-Version: 1.1
+Version: 1.1.1
 Tags: login, authentication, Big-Login, Big
-Stable tag: tags/1.0.0
+Stable tag: tags/1.1.1
 Requires at least: 2.5
-Tested up to: 4.0
+Tested up to: 4.0.1
 License: GPLv2 or later
 
 == Description ==
@@ -47,11 +47,14 @@ Can I only use a full url as target after successful?
 A: No, it is possible to set a path as well. Make sure you start with a "/".
 
 == Change Log ==
+= 1.1.1 =
+- Updated readme
+
 = 1.1 =
-version 1.1: Updated styling
+Updated styling
 
 = 1.0 =
-version 1.0: initial release
+Initial release
 
 == Configuration ==
 
