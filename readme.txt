@@ -1,10 +1,10 @@
-=== wp-big-login  ===
-Contributors: EXED internet
-Version: 1.0
+=== Big-Login ===
+Contributors: exed internet 
+Version: 1.1
 Tags: login, authentication, Big-Login, Big
 Stable tag: tags/1.0.0
 Requires at least: 2.5
-Tested up to: 3.5
+Tested up to: 4.0
 License: GPLv2 or later
 
 == Description ==
@@ -47,6 +47,9 @@ Can I only use a full url as target after successful?
 A: No, it is possible to set a path as well. Make sure you start with a "/".
 
 == Change Log ==
+= 1.1 =
+version 1.1: Updated styling
+
 = 1.0 =
 version 1.0: initial release
 
@@ -58,4 +61,6 @@ The redirect url in case of a successful login can be set through the settings p
 -
 
 == Screenshots ==
--
+1. The settings
+
+2. The widget
