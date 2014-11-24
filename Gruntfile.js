@@ -7,7 +7,6 @@ module.exports = function(grunt) {
 			deploy: {
 				options: {
 					plugin_slug: 'wp-big-login',
-					svn_user: 'exed-internet',
 					build_dir: 'build', //relative path to your build directory
 					assets_dir: 'wporg-assets' //relative path to your assets directory (optional).
 				}
@@ -18,7 +17,7 @@ module.exports = function(grunt) {
 				files: [
 					{
 						expand: true,
-						src: [ 'big-login.php', 'settings.php', 'readme.txt', 'Ribiz/**' ],
+						src: [ 'wp-big-login.php', 'settings.php', 'readme.txt', 'Ribiz/**' ],
 						dest: 'build/'
 					}
 				]
