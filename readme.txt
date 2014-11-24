@@ -2,7 +2,7 @@
 Contributors: exed internet 
 Version: 1.1.1
 Tags: login, authentication, Big-Login, Big
-Stable tag: tags/1.1.1
+Stable tag: 1.1.1
 Requires at least: 2.5
 Tested up to: 4.0.1
 License: GPLv2 or later
