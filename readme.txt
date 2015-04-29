@@ -1,10 +1,10 @@
 === Big-Login ===
 Contributors: exed internet 
-Version: 1.1.2
+Version: 1.1.3
 Tags: login, authentication, Big-Login, Big
-Stable tag: 1.1.2
+Stable tag: 1.1.3
 Requires at least: 2.5
-Tested up to: 4.1.0
+Tested up to: 4.2.0
 License: GPLv2 or later
 
 == Description ==
