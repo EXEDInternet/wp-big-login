@@ -48,6 +48,9 @@ A: No, it is possible to set a path as well. Make sure you start with a "/".
 
 == Change Log ==
 
+= 1.1.3 =
+- Updated for WordPress 4.2
+
 = 1.1.2 =
 - Updated for WordPress 4.1
 
